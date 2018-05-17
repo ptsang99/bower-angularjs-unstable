@@ -3,5 +3,5 @@
 Bower package for the unstable branch of AngularJS. Current Version `1.1.4`.
 
 ```sh
-$ bower install angular-unstable
+$ bower install angularjs-unstable
 ```
